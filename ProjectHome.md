@@ -1,0 +1,1 @@
+API documentation for tra.kz - the URL shortener for all things music.
